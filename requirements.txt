@@ -1,0 +1,7 @@
+gradio
+easyocr
+opencv-python
+numpy
+python-dateutil
+
+
